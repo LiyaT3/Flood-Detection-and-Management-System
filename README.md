@@ -1,4 +1,4 @@
-# LiyaT_23
+# LiyaT_23_FDMS
 # Flood Detection and Management System
 
 ## Project Description
